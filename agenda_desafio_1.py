@@ -1,7 +1,7 @@
 contatos = []
 
 def mostrar_menu():
-    print("\n --- Menu ---")
+    print("\n --- Menu Agenda ---")
     print("1. Adicionar contato")
     print("2. Visualizar lista de contatos")
     print("3. Editar contato")
